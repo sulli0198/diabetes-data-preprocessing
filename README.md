@@ -13,7 +13,7 @@ Practice the end-to-end preprocessing workflow:
 
 ## 🗂 Dataset
 
-**Pima Indians Diabetes Dataset** — 768 rows, 9 columns including features like Glucose, BloodPressure, BMI, Insulin, Age and a binary target variable `Outcome` (1 = Diabetes, 0 = No Diabetes).
+**Diabetes Dataset** — 768 rows, 9 columns including features like Glucose, BloodPressure, BMI, Insulin, Age and a binary target variable `Outcome` (1 = Diabetes, 0 = No Diabetes).
 
 > Note: This dataset contains hidden missing values disguised as 0s in columns like Glucose, BloodPressure and BMI — which are medically impossible as zero and were treated accordingly.
 
@@ -59,4 +59,4 @@ Practice the end-to-end preprocessing workflow:
 
 ## 🔗 Reference
 
-Exercise based on [GeeksforGeeks — Data Preprocessing](https://www.geeksforgeeks.org/data-analysis/)
+Exercise based on [GeeksforGeeks — Data Preprocessing](https://www.geeksforgeeks.org/data-analysis/data-preprocessing-machine-learning-python/)
